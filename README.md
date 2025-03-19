@@ -1,7 +1,7 @@
 # Classic Machine Learning and Deep Learning Models
 This work provides implementations of various classic machine learning and deep learning models, including SVR, LSTM, RNN, GRU, KNN, DNN, CNN, Transformer architectures, and etc.
 
-**Note:** This repository is under active development. Some models are still being implemented and documented.
+**Note: This repository is under active development. Some models are still being implemented and documented.**
 
 ## Overview
 

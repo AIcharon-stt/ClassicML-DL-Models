@@ -222,6 +222,12 @@ print(f"Test MSE: {metrics['mse']}, Test MAE: {metrics['mae']}")
     └── image/
 ```
 
+## Baseline Models Reference
+* **Graph Neural Network (GNN) Based Baseline Models**
+  * **Reference Link:** [https://github.com/AIcharon-stt/Traffic-prediction-models-GNN](https://github.com/AIcharon-stt/Traffic-prediction-models-GNN)
+* **Classic Deep Learning/Machine Learning Based Baseline Models**
+  * **Reference Link:** [https://github.com/AIcharon-stt/ClassicML-DL-Models](https://github.com/AIcharon-stt/ClassicML-DL-Models)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
